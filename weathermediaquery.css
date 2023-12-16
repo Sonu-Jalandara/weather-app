@@ -72,7 +72,7 @@
     }
 
     .search-menu.active {
-        right: -50%;
+        display:none;
     }
 
     .search-menu {
